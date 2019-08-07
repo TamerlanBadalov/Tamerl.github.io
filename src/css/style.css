@@ -1,0 +1,36 @@
+body{font-family:tahoma, sans-serif;}
+.header{
+     font-size: 20px;
+     line-height: 1.5;
+     margin: 60px auto;
+     
+ }
+ .section{
+     padding: 30px;
+ }
+ .header span{
+     display: block;
+ }
+ .form-header{
+     margin-bottom: 20px;
+     font-size: 20px;color: rgb(10, 10, 10);
+     font-weight: 900;
+ }
+ .form input{
+     margin-bottom: 12px;
+ }
+ .form{
+     border:5px solid;color: rgb(35, 22, 216);
+     padding: 35px 20px;
+ }
+ .form-btn{
+     margin: 12px auto;
+ }
+ .section-header{
+     font-size:20px;
+     font-weight: 900;
+ }
+ .feature{
+     margin-top: 60px;
+ }
+     .feature p{margin-top: 30px;}
